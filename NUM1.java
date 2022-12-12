@@ -14,7 +14,7 @@ public class Main{
 		    human();         
 		    printa();         
 		    if (check(X)) {             
-		        System.out.println("Победил человек");             
+		        System.out.println("Выйграл");             
 		        break;}         
 		        if (isMapFull()) {             
 		            System.out.println("Ничья");             
